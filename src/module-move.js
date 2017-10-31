@@ -6,4 +6,4 @@ function walk() {
   console.log("I'm walking");
 }
 
-export default walk
+export default walk;
