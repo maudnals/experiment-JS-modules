@@ -1,3 +1,4 @@
-import walk from './module-move.js';
+import api from './module-move.js';
 
-walk();
+api.walk();
+api.crawl();
